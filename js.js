@@ -87,4 +87,3 @@ window.addEventListener('scroll', updateActiveMenuItem);
 
 // Set initial active state
 updateActiveMenuItem();
-
